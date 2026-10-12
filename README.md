@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 3rd year B.Tech Computer Science.br>🤝 I'm looking to collaborate on Web development and open-source projects.<br>🌱 Improving my coding and problem-solving skills.<br>📚 I'm currently learning Full-stack development with Python and JavaScript.<br>💡Skilled in HTML, CSS, JavaScript, Python, and my projects.<br>🎯 I love turning ideas into projects and learning by building!
+💻 3rd year B.Tech Computer Science.<br>🤝 I'm looking to collaborate on Web development and open-source projects.<br>🌱 Improving my coding and problem-solving skills.<br>📚 I'm currently learning Full-stack development with Python and JavaScript.<br>💡Skilled in HTML, CSS, JavaScript, Python, and my projects.<br>🎯 I love turning ideas into projects and learning by building!
 
 
 # 💻 Tech Stack:
